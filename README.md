@@ -1,12 +1,11 @@
 ## Hi there, I'm Shubham Kaushal
  
  
-- 🔭 I’m currently working on android studio, ml & cp skills
-- 🌱 I’m currently learning app dev & ml
+- 🔭 I’m currently working on my android studio, dl & cp skills
 - 👯 I’m looking to collaborate on linked in
 - 📫 How to reach me: https://www.linkedin.com/in/shubham-kaushal-598459200/
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: likes TT
+- ⚡ Hobbies: Travelling, TT
 
 
 ## My Github stats
