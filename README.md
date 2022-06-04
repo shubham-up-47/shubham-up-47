@@ -2,7 +2,7 @@
 <h3 align="center">Android Developer & Competitive Programmer</h3>
 
 - 👨‍💻 I’m a cse 2nd year student at **NIT Trichy**
-- 🔭 I’m currently working on **android studio, dl & cp skills**
+- 🔭 I’m currently working on my **android studio, dl & cp skills**
 - ⚡ My hobbies are **Travelling, Table-Tennis, Painting etc**
 
 
