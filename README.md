@@ -10,6 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shubham-kaushal-598459200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kaushal-598459200" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shubham_up_47" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="shubham_up_47" height="30" width="40" /></a>
+<a href="[https://www.codechef.com/users/shubham_up_47](https://leetcode.com/shubham_up_47/)" target="blank"><img align="center" src="[https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png](https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png)" alt="shubham_up_47" height="30" width="40" /></a>
 </p>
 
 
