@@ -1,10 +1,6 @@
 <h1 align="center">👋 I'm Shubham Kaushal</h1>
 <h3 align="center">Android Developer & Competitive Programmer</h3>
 
-- 👨‍💻 I’m a cse 3rd year student at **NIT Trichy**
-- 🔭 I’m currently working on my **android studio, dl & cp skills**
-- ⚡ My hobbies are **Travelling, Table-Tennis, Painting etc**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
